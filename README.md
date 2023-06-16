@@ -22,12 +22,12 @@ Line119:source /opt/ros/humble/setup.bash
 Line120:source ~/ros2_ws/install/setup.bash
 Line121:source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash
 
->새 터미널
+새 터미널
 pip3 list
 sudo apt install python3-pip
 pip3 list | grep setuptools
 pip3 install setuptools==58.2.0
-<터미널 끝
+터미널 끝
 
 /ros2_ws
 colcon build
@@ -52,10 +52,10 @@ cd ~/ros2_ws/install/my_py_pkg/lib/my_py_pkg
 노드 실행 두 번째 방법
 ros2_ws/
 colcon build --packages-select my_py_pkg
->새 터미널
+새 터미널
 source .bashrc
 ros2 run my_py_pkg(패키지이름) py_node(실행파일이름)
-<터미널 끝
+터미널 끝
 
 python 패키지 생성
 cd ros2_ws/src/ <-👏️중요!!! 해당 폴더에 가서 실행!
@@ -103,9 +103,9 @@ chmod +x robot_news_station.py     : robot_news_station에 실행권한을 준�
 새로운 파일을 더했으니 symlink한다.
 /ros2_ws
 colcon build --packages-select my_py_pkg --symlink-install
->새 터미널
+새 터미널
 source ~/.bashrc
-<터미널 끝
+터미널 끝
 
 2. Subscriber 생성
 /ros2_ws/src/my_py_pkg/my_py_pkg
