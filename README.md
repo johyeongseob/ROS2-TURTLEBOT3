@@ -28,22 +28,22 @@ sudo apt install python3-colcon-common-extensions
 
 ✅ Create ROS2 Workspace
 
-"""
+```
 cd ~
 mkdir -p ros2_ws/src
 cd ros2_ws
 colcon build
-"""
+```
 
 ✅ Update .bashrc
 
-"""
+```bash
 gedit ~/.bashrc
 # Add the following at the end:
 source /opt/ros/humble/setup.bash
 source ~/ros2_ws/install/setup.bash
 source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash
-"""
+```
 
 🐍 Python Node Example
 
