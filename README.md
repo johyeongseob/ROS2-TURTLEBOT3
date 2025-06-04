@@ -21,8 +21,10 @@ This repository contains ROS2-based practical exercises for autonomous robotics 
 📄 [Official Installation Guide](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html)
 
 ### ✅ Install Build Tool: Colcon
-```bash
+
+"""
 sudo apt install python3-colcon-common-extensions
+"""
 
 ✅ Create ROS2 Workspace
 
