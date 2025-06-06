@@ -1,7 +1,7 @@
 # 🤖 Autonomous_Robot
 
 Dongguk University | Department of Mechanical, Robotics, and Energy Engineering  
-**Course**: MEC4092-01 자율로봇실습  
+**Course**: 자율로봇실습 (MEC4092-01), Spring 2023
 **Instructor**: Prof. Soo-Cheol Lim
 
 This repository contains ROS2-based practical exercises for autonomous robotics using [**TurtleBot3**](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/).
