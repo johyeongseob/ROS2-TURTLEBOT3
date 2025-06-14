@@ -1,4 +1,4 @@
-# 🤖 Autonomous_Robot
+# ROS2 & Ubuntu Development Environment Setup and Practice
 
 Dongguk University | Department of Mechanical, Robotics, and Energy Engineering  
 **Course**: 자율로봇실습 (MEC4092-01), Spring 2023
