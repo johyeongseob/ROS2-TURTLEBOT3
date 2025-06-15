@@ -15,7 +15,7 @@ This repository contains ROS2-based practical exercises for autonomous robotics 
 
 ### What is ROS?
 
-- [ROS is an open-source, meta-operating system for your robot.](https://wiki.ros.org/)
+- [Robot operating system (ROS) is an open-source, meta-operating system for your robot.](https://wiki.ros.org/)
 
 
 ## 🛠️ ROS2 Setup Guide
