@@ -13,7 +13,7 @@ This repository contains ROS2-based practical exercises for autonomous robotics 
 - **ROS2 Version**: Humble
 - **Robot Platform**: TurtleBot3
 
-### What is ROS
+### What is ROS?
 
 - [ROS is an open-source, meta-operating system for your robot.](https://wiki.ros.org/)
 
